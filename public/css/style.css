@@ -1,0 +1,44 @@
+html,
+body {
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+.background {
+  background-image: url("../img/inspirational-background.jpg");
+  background-repeat: no-repeat;
+  /*width: 100%;*/
+  height: 1100px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  background-size: auto;
+  position: relative;
+}
+
+.quoteButton {
+  position: absolute;
+  top: 750px;
+  right: 550;
+  font-size: 30px;
+  border-radius: 8px;
+  color: blue;
+}
+
+.p1 {
+  font-size: 30px;
+  color: whitesmoke;
+  top: 75px;
+  left: 50px;
+  right: 600px;
+  position: absolute;
+}
+
+.p2 {
+  font-size: 30px;
+  color: whitesmoke;
+   top: 275px;
+   right: 600px;
+  position: absolute;
+}
